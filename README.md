@@ -4,4 +4,6 @@
 
 Контрольные точки: 320px, 768px, 1024px, 1280px.
 
+---
+
 https://mariastarikova.github.io/russian-travel/
