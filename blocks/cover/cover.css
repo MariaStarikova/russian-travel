@@ -1,10 +1,5 @@
 .cover {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto 92px;
+  margin: 0 auto;
   height: 100%;
-  overflow: hidden;
   position: relative;
 }
