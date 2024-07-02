@@ -1,9 +1,12 @@
-# Проект 3: "Путешествия по России"
+# Учебный проект : "Путешествия по России"
 
-Используемые технологии: **HTML, CSS, flex-box, Grid Layout, БЭМ, адаптивная верстка**.
+## Описание проекта
 
-Контрольные точки: 320px, 768px, 1024px, 1280px.
+Проект посвящен России, описывает, насколько прекрасна наша страна и как много тут красивых мест, которые стоит посетить. В данном проекте сделала верстка под несколько разрешений экрана, котрольные точки: 320px, 768px, 1024px, 1280px.
 
----
+Технологии: **HTML, CSS, flex-box, Grid Layout, БЭМ, адаптивная верстка**.
 
-https://mariastarikova.github.io/russian-travel/
+
+[Ссылка на Github Pages](https://mariastarikova.github.io/russian-travel/)
+
+![screen](https://github.com/MariaStarikova/russian-travel/assets/128027402/d5dcd41c-eef2-464a-8363-830eb8d1999f)
